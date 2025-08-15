@@ -23,12 +23,12 @@ This project is my personal journey to:
 Each week’s work is stored in a separate folder:
 
 ```
-📁 Week-1_Dataset-Name/
+📁 Week-1_Titanic Dataset/
     ├── analysis.ipynb  # Google Colab notebook
     ├── dataset.csv     # (if shareable)
     └── README.md       # Brief about dataset & analysis
 
-📁 Week-2_Dataset-Name/
+📁 Week-2_Iris Dataset/
     ├── analysis.ipynb
     └── ...
 ```
@@ -57,12 +57,11 @@ Throughout this journey, I’ll be exploring:
 
 ## 📈 Progress Tracker
 
-| Week | Dataset      | Key Focus                      | Colab Link         |
-| ---- | ------------ | ------------------------------ | ------------------ |
-| 1    | Dataset Name | EDA & Basic Visualization      | [Open in Colab](#) |
-| 2    | Dataset Name | Cleaning & Feature Engineering | [Open in Colab](#) |
-| ...  | ...          | ...                            | ...                |
-
+| Week | Dataset      | Key Focus                      | 
+| ---- | ------------ | ------------------------------ | 
+| 1    | Titanic      | EDA & Basic Visualization      | 
+| 2    | Iris Dataset | Cleaning & Feature Engineering | 
+| ...  | ...          | ...                            | 
 ---
 
 ## 🤝 Contributions
