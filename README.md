@@ -24,12 +24,11 @@ Each week’s work is stored in a separate folder:
 
 ```
 📁 Week-1_Titanic Dataset/
-    ├── analysis.ipynb  # Google Colab notebook
-    ├── dataset.csv     # (if shareable)
-    └── README.md       # Brief about dataset & analysis
+    ├── Data Handling and Visualisation on the Titanic Dataset.ipynb  # Google Colab notebook
+    ├── dataset.csv     
 
 📁 Week-2_Iris Dataset/
-    ├── https://github.com/aditivermaa04/Data-Handling-and-Visualisation-Journey/blob/main/DHV%20on%20the%20Iris%20Dataset.ipynb
+    ├── DHV on the Iris Dataset.ipynb
     └── ...
 ```
 
